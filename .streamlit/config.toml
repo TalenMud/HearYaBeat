@@ -1,0 +1,7 @@
+# Buttons, sliders and progress bars take the kick colour from app.py's COLOURS.
+# No base is set, so the page follows each viewer's light or dark preference.
+[theme]
+primaryColor = "#e4572e"
+
+[browser]
+gatherUsageStats = false
