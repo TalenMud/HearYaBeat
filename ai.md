@@ -84,7 +84,7 @@ It listed five steps: an evaluation harness, calibration diagnostics, per-hit co
 
 ### Not yet known
 
-All the numbers above come from synthetic audio. Real-voice accuracy, and whether confidence tracks it, will come from my own labelled takes through `cli.py evaluate`. `WRITEUP.md` has a marked placeholder for them.
+All the numbers above come from synthetic audio. Real-voice accuracy, and whether confidence tracks it, will come from my own labelled takes through `cli.py evaluate`. Session 5 has the first of those results.
 
 ## Session 4: 12 Nov 2026, scripted labels
 
@@ -119,7 +119,3 @@ The numbers are in `WRITEUP.md`. In short:
 - **Confidence:** it was high on most of the wrong answers.
 
 So on a real voice, the uncalibrated classifier and the confidence don't work yet. This is the gap the synthetic tests couldn't show. No code was changed in response, because this session was for shipping only. Calibrating a profile and recording more takes are the next steps.
-
-## Later sessions
-
-<!-- Add real prompts and decisions here as you go, including real-voice testing and tuning. -->
