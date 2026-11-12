@@ -1,0 +1,10 @@
+librosa==1.0.0; python_version >= "3.12"
+librosa==0.11.0; python_version < "3.12"
+numpy==2.5.4; python_version >= "3.12"
+numpy==2.4.6; python_version < "3.12"
+scipy==1.18.1; python_version >= "3.12"
+scipy==1.17.1; python_version < "3.12"
+sounddevice==0.5.6
+soundfile==0.14.0
+streamlit==1.67.0
+pytest==9.2.0
