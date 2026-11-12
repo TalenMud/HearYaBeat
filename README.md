@@ -1,5 +1,7 @@
 # HearYaBeat
 
+**Repo:** https://github.com/TalenMud/HearYaBeat
+
 Beatbox into the mic ("boom cha boom cha"). HearYaBeat detects the tempo and each sound, swaps them for drum samples, and plays a clean loop. Hum on top to add a bassline.
 
 Built for the Hiya AI Voice Challenge, Creative Voice track.
@@ -9,7 +11,7 @@ Built for the Hiya AI Voice Challenge, Creative Voice track.
 Requires Python 3.11, 3.12 or 3.13.
 
 ```
-git clone <this repo>
+git clone https://github.com/TalenMud/HearYaBeat.git
 cd HearYaBeat
 python -m venv .venv
 ```
