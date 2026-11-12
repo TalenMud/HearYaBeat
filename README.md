@@ -2,6 +2,8 @@
 
 **Repo:** https://github.com/TalenMud/HearYaBeat
 
+**Demo video (3 min):** [demo/HearYaBeat_demo.mp4](demo/HearYaBeat_demo.mp4)
+
 Beatbox into the mic ("boom cha boom cha"). HearYaBeat detects the tempo and each sound, swaps them for drum samples, and plays a clean loop. Hum on top to add a bassline.
 
 Built for the Hiya AI Voice Challenge, Creative Voice track.
